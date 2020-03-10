@@ -15,10 +15,10 @@ Your program must print:
 • The coordinates of the ball after a given amount of time,  
 • The angle at which the ball will hit the paddle (if it will actually hit it, at anytime from t = 0).  
 
-USAGE  
+#### USAGE  
     ./101pong x0 y0 z0 x1 y1 z1 n  
   
-DESCRIPTION  
+#### DESCRIPTION  
 | params | description                                         |
 | ------ |:---------------------------------------------------:|
 | x0     | ball abscissa at time t - 1                         |
